@@ -1,8 +1,7 @@
-import re
 import sys
 sys.path.append("C:\\Users\\MI\\IdeaProjects\\ParseTextToHtml\\Demo1")
 
-from Demo1.util import *
+from Demo1.utils.util import *
 
 print("<html><head><title>...</title><body>")
 title =True
