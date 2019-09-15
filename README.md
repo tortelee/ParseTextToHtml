@@ -52,8 +52,8 @@ html 中，列表和列表相是这样的
 
 规则|heading|title|list|listitem|paragraph
 --|:--:|--:|--:|--:|--:
-heading  |-|-|-|-|-|0
-title    |1|-|-|-|-|0
-list     |1|1|-|0|-|0
-listitem |1|1|0|-|-|0
-paragraph|1|1|1|1|-|0
+heading  |-|-|-|-|-|
+title    |1|-|-|-|-|
+list     |1|1|-|-|-|
+listitem |1|1|0|-|-|
+paragraph|1|1|1|1|-|
