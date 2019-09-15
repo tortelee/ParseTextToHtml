@@ -54,4 +54,4 @@ heading  |-|-|-|-|-|0
 title    |1|-|-|-|-|0
 list     |1|1|-|0|-|0
 listitem |1|1|1|-|-|0
-paragraph|0|0|0|0|-|0
+paragraph|0|0|0|1|-|0
