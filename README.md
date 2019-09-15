@@ -48,10 +48,12 @@ html 中，列表和列表相是这样的
   
 整理各种规则，冲突关系
 
+`1表示冲突，0表示不冲突`
+
 规则|heading|title|list|listitem|paragraph
 --|:--:|--:|--:|--:|--:
 heading  |-|-|-|-|-|0
 title    |1|-|-|-|-|0
 list     |1|1|-|0|-|0
-listitem |1|1|1|-|-|0
-paragraph|0|0|0|1|-|0
+listitem |1|1|0|-|-|0
+paragraph|1|1|1|1|-|0
